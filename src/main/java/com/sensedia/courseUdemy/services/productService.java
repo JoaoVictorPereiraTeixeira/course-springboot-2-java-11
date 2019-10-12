@@ -10,7 +10,7 @@ import com.sensedia.courseUdemy.entities.Product;
 import com.sensedia.courseUdemy.repositories.ProductRepository;
 
 @Service
-public class productService {
+public class ProductService {
 	 
 	@Autowired
 	private ProductRepository repository;

@@ -11,7 +11,7 @@ import com.sensedia.courseUdemy.repositories.UserRepository;
 
 @Service
 public class UserService {
-	
+	 
 	@Autowired
 	private UserRepository repository;
 	
